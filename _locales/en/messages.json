@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Hotstar Party",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Watch Hotstar remotely with friends",
+    "description": "Extension description"
+  }
+}
